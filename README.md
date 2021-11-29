@@ -1,6 +1,4 @@
 # Segmentez des clients d'un site de e-commerce
-https://openclassrooms.com/fr/paths/164/projects/630/assignment
-
 
 Vous êtes consultant pour Olist, une solution de vente sur les marketplaces en ligne.
 
@@ -12,7 +10,7 @@ Votre objectif est de comprendre les différents types d’utilisateurs grâce �
 Vous devrez fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 
 # Les données
-Pour cette mission, Olist vous fournit une base de données anonymisée comportant des informations sur l’historique de commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017.
+Pour cette mission, Olist vous fournit une [base de données](https://www.kaggle.com/olistbr/brazilian-ecommerce) anonymisée comportant des informations sur l’historique de commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017.
 
 # Votre mission
 Votre mission est d’aider les équipes d’Olist à comprendre les différents types d'utilisateurs. Vous utiliserez donc des méthodes non supervisées pour regrouper ensemble des clients de profils similaires. Ces catégories pourront être utilisées par l’équipe marketing pour mieux communiquer.
